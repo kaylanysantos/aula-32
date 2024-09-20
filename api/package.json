@@ -1,0 +1,15 @@
+{
+  "name": "aula-32",
+  "version": "1.0.0",
+  "description": "Olá, futuros mestres do código!",
+  "main": "index.js",
+  "directories": {
+    "example": "examples"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "scripts": {
+    "dev": "nodemon --exec node src/serve.js"
+  }
+}
